@@ -1,0 +1,29 @@
+.our-container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.our-container div {
+    width: 50%;
+    text-align: center;
+    margin-left: 300px;
+}
+
+.our-container h1 {
+    font-size: 45px;
+}
+
+.our-container button {
+    padding: 10px 20px;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+.our-container img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}

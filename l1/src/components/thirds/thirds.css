@@ -1,0 +1,35 @@
+.main-container {
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+}
+
+.inner-container {
+    width: 30%;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+.inner-container h1 {
+    font-size: 45px;
+    font-weight: normal;
+}
+
+.inner-container p {
+    font-size: 10px;
+}
+
+.inner-container button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.in-container {
+    width: 50%;
+}
+
+.in-container img {
+    width: 100%;
+}

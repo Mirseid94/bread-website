@@ -1,0 +1,34 @@
+.m-container {
+    width: 100%;
+    background-image: url("https://media.istockphoto.com/id/1046031296/tr/foto%C4%9Fraf/ev-yap%C4%B1m%C4%B1-ekmek-bu%C4%9Fday-ekme%C4%9Fi-ah%C5%9Fap-arka-plan-%C3%BCzerinde-pi%C5%9Fmi%C5%9F-banner-reklam-ve-tasar%C4%B1m.jpg?s=1024x1024&w=is&k=20&c=T_DpRflUmKhJ09WRSPNn7TKwNxdqTMaHeA5d3V2t0_Y=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 730px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.m-container h1 {
+    width: 100%;
+    color: white;
+}
+
+.inn-container div {
+    width: 250px;
+    height: 180px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    opacity: 0.6;
+}
+
+.inn-container {
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 18%;
+}

@@ -1,0 +1,38 @@
+.second-container {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background: url("https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/eksi-mayali-sepet-ekmek.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-around;
+}
+
+.second-container h1 {
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.litter-container {
+    width: 80%;
+    display: flex;
+}
+
+.litter-container div {
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.litter-container div img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
